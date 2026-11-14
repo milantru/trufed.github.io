@@ -1,1 +1,1 @@
-# Trufed s.r.o.
+# TruFed s.r.o.
