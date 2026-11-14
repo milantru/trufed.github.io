@@ -1,1 +1,1 @@
-# trufed.github.io
+# Trufed s.r.o.
